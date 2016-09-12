@@ -1,0 +1,9 @@
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.exe.config
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.exe
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.pdb
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.csprojResolveAssemblyReference.cache
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.VisualBoard.resources
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.Properties.Resources.resources
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.csproj.GenerateResource.Cache
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.exe
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.pdb
